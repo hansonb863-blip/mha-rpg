@@ -1,0 +1,234 @@
+{
+  "player": {
+    "name": "Benjamin \"Ben\" Shinkaku (\u8eab\u899a)",
+    "nickname": "Ben",
+    "age": 15,
+    "birthday": "June 24",
+    "hero_alias": "The Tactician Hero: Arc",
+    "role": "Hero Student / Underground Hero",
+    "heritage": "Canadian-Japanese",
+    "appearance": "Green eyes, light brown (dirty-blonde) hair, fair slightly pale complexion, toned rugged athletic physique. Restful, slightly melancholic, deeply observant expression. Faint peppermint/eucalyptus scent.",
+    "voice_and_speech": "Mid-range, steady, flat/deadpan, polite cadence even in brutal fights. Highly observant, blunt, grammatically precise, using dry literal wordplay.",
+    "likes": [
+      "Roman history",
+      "Classical military tacticians (Alexander the Great, Constantine)",
+      "Catholic historical figures and martyrs (John the Baptist, Augustine, Joan of Arc)",
+      "Family and close friends"
+    ],
+    "dislikes": [
+      "Evil and villains (simple, absolute hatred)",
+      "Sinus infections",
+      "Winter weather transitions",
+      "Illogical or wasteful behavior"
+    ],
+    "quirk": "Second Sense (Transformation \u2014 Biomechanical Translation / Kinetic Empathy)",
+    "quirk_mechanics": {
+      "emulation_capacity": "Pushes own physiology up to 90%\u2013100% of personal human biological ceiling (subconscious biomechanical intuition; live observation + verbal explanation boosts subtle Quirks).",
+      "max_active_blueprints": 2,
+      "visual_indicator": "Faint, steady bioluminescent green eye glow (no flashes or sparks).",
+      "sub_abilities": [
+        "Biomechanical Translation: Translates physical Quirks into human-viable cellular adaptations (calcification, hyper-contracting calves, whip-torque, shock dispersion). Cannot mimic Emitters or grow Mutant appendages.",
+        "Kinetic Empathy: Replicates complex martial arts, acrobatics, and evasive arcs strictly through live observation.",
+        "Accelerated Natural Healing: Compresses recovery (seconds/minutes for cuts, minutes/hours for bruises/minor tears, 2\u20133 days for 3-month bone/organ damage). Cannot regrow limbs/organs, realign displaced fractures, or cure Delayed Lactic Rigor; occupies 1 blueprint slot and risks hypoglycemia.",
+        "Homogenized Dual Blueprints: Max 2 blueprints; must biomechanically homogenize into one fluid loop or they clash in his nervous system and fail."
+      ],
+      "limits": [
+        "Anatomy Lock: Physical eyes are the Quirk anchor; destroying/removing them renders him permanently Quirkless.",
+        "Permanent Blindness: Confined to remembered blueprint library; cannot generate new ones.",
+        "Live Visual Scanning: Must witness targets live with his own eyes (no darkness, smoke, closed eyes, or digital screens for new scans). Once recorded, can execute in darkness/eyes closed.",
+        "Confidence Check: Doubting his body can survive a maneuver shatters the blueprint unless Melancholic Override is active.",
+        "Sensory Overload: Boosting hearing or senses leaves hyper-sensitive organs prone to instant rupture from loud stimuli (e.g., explosions).",
+        "Localized Granular Strain (10s timer & Delayed Lactic Rigor): 0\u201310% output = 1:1 strain (0\u201310%); 11\u201360% = 2:1 above 10% (40% = 70%, 60% = 110%); 61\u2013100% = 5:1 above 60% (80% = 210%, 100% = 310%, causing micro-tears/snaps/fractures). Taxed muscles lock up hours later."
+      ]
+    },
+    "psychology": "Insightful, analytical, conscientious, reserved yet polite and lighthearted. Normally cautious with self-doubt; genuine aggravation triggers Melancholic Override\u2014an icy fixation where caution and self-preservation vanish completely.",
+    "lore": "Born in Canada, immigrated to Japan where his family took the name Shinkaku ('Body Sense / Muscle Memory'). Raised by single mother Karen Shinkaku (absent father). Fidgets constantly outside combat, delays his first strike to read kinetic arcs, and suffers winter-transition sinus infections.",
+    "parents": {
+      "father": "Unnamed Father (Absent)",
+      "mother": "Karen Shinkaku"
+    },
+    "current_outfit": "middle_school_uniform",
+    "wardrobe": {
+      "middle_school_uniform": "Standard black middle school gakuran uniform (worn only for the UA Entrance Exam).",
+      "casual": "Practical, durable Canadian wear\u2014plaid flannel shirts, jeans, and sturdy boots.",
+      "school_uniform": "Standard UA High gray blazer, white dress shirt, dark green tie, and dark teal trousers.",
+      "hero_costume": "Form-fitted green/black plaid tactical shirt over thermal base layer, chrome-black 360-degree impact pants, heavy-duty impact gloves, compact medical/sinus kit, and 'Cheat Sheet' Digital Goggles (replay past live footage to steady Confidence Check; cannot scan new blueprints).",
+      "formal": "Simple, dark, unassuming suit\u2014practical over flashy.",
+      "lounging": "Loose sweatpants, multiple heating pads for post-fight lactic rigor, and a box of tissues."
+    },
+    "stamina": 100,
+    "localized_strain": {
+      "arms": 0,
+      "legs": 0,
+      "core": 0
+    },
+    "melancholic_override": false,
+    "active_blueprints": [],
+    "current_arc_order": 1,
+    "current_arc_name": "UA Entrance Exam Arc (February)"
+  },
+  "relationships": {},
+  "canon_divergence_log": [],
+  "lorebook": [
+    {
+      "arc_order": -2,
+      "title": "OVA: All Might Rising (Prequel)",
+      "facts": "Decades before the main series, Nana Shimura passes One For All to young Toshinori Yagi (All Might) before falling to All For One, pushing Toshinori to train in America."
+    },
+    {
+      "arc_order": -1,
+      "title": "Spin-off Series: My Hero Academia: Vigilantes",
+      "facts": "Takes place ~5 years before the main series in Naruhata. Follows unlicensed vigilantes Koichi Haimawari (The Crawler), Knuckleduster, and Pop\u2606Step investigating the illegal Quirk-enhancing drug Trigger and Number 6, alongside flashbacks to Shota Aizawa, Present Mic, and Oboro Shirakumo at UA."
+    },
+    {
+      "arc_order": 1,
+      "title": "UA Entrance Exam Arc (February)",
+      "facts": "Examinees wear middle school uniforms or practical clothes and fight 1P, 2P, and 3P Villain Bots in mock urban battle centers while Rescue Points are secretly awarded. Present Mic hosts the briefing; Zero-Pointer bots trigger the climax."
+    },
+    {
+      "arc_order": 2,
+      "title": "Quirk Apprehension Test Arc (April)",
+      "facts": "First day of UA Class 1-A. Homeroom teacher Shota Aizawa (Eraser Head) runs an 8-event physical test with Quirks allowed, threatening last place with expulsion."
+    },
+    {
+      "arc_order": 3,
+      "title": "Battle Trial Arc (April)",
+      "facts": "All Might teaches Hero Basic Training. Students wear their hero costumes for the first time in 2v2 indoor Hero vs. Villain bomb-defusal drills."
+    },
+    {
+      "arc_order": 4,
+      "title": "U.S.J. Arc (April)",
+      "facts": "Tomura Shigaraki, Kurogiri, and the League of Villains ambush Class 1-A during rescue training at the Unforeseen Simulation Joint alongside a bio-engineered Nomu designed to counter All Might."
+    },
+    {
+      "arc_order": 5,
+      "title": "OVA: Save! Rescue Training!",
+      "facts": "Class 1-A conducts a follow-up rescue drill at USJ with All Might, Aizawa, and Thirteen."
+    },
+    {
+      "arc_order": 6,
+      "title": "U.A. Sports Festival Arc (May)",
+      "facts": "UA's nationally televised tournament featuring an obstacle race, cavalry battle, and 1v1 bracket so Pro Heroes can scout first-year students for internships."
+    },
+    {
+      "arc_order": 7,
+      "title": "Vs. Hero Killer Arc (May/June)",
+      "facts": "Students begin 1-week Pro Hero internships. In Hosu City, the League releases Nomu while the Hero Killer Stain targets Pro Heroes and Tenya Iida."
+    },
+    {
+      "arc_order": 8,
+      "title": "Final Exams Arc (June)",
+      "facts": "First-term practical exams pair UA students against Pro Hero teachers wearing weighted handcuffs, requiring them to either defeat the teacher or escape the gate."
+    },
+    {
+      "arc_order": 9,
+      "title": "OVA: Training of the Dead",
+      "facts": "Class 1-A holds a joint survival-training exercise with students from Isamu Academy High School, including Romero Fujimi's Zombie Virus Quirk."
+    },
+    {
+      "arc_order": 10,
+      "title": "Movie 1: My Hero Academia: Two Heroes (July)",
+      "facts": "During summer break before the training camp, All Might and students visit the artificial mobile city I-Island for the I-Expo, where villains led by Wolfram seize the security system; David and Melissa Shield assist."
+    },
+    {
+      "arc_order": 11,
+      "title": "Forest Training Camp Arc (August)",
+      "facts": "Class 1-A and 1-B train Quirk limits under the Wild, Wild Pussycats in the Beast's Forest before the League's Vanguard Action Squad ambushes the camp and kidnaps Katsuki Bakugo."
+    },
+    {
+      "arc_order": 12,
+      "title": "Hideout Raid Arc (August)",
+      "facts": "Pro Heroes raid the League's bar and Nomu factory in Kamino Ward while Deku's group rescues Bakugo. All Might defeats All For One at the cost of the last embers of One For All, retiring as Symbol of Peace."
+    },
+    {
+      "arc_order": 13,
+      "title": "Provisional Hero License Exam Arc (September)",
+      "facts": "UA transitions to the Heights Alliance dorms. Students develop Ultimate Moves and compete against Shiketsu and Ketsubutsu High at Takoba National Stadium (includes OVA: Make It! Do-or-Die Survival Training)."
+    },
+    {
+      "arc_order": 14,
+      "title": "Shie Hassaikai Arc (September/October)",
+      "facts": "Students join Pro Hero Work-Studies. Under Sir Nighteye, Deku, Mirio Togata, and Pro Heroes raid Overhaul's Shie Hassaikai compound to rescue Eri and stop Quirk-Destroying Bullets."
+    },
+    {
+      "arc_order": 15,
+      "title": "Remedial Course Arc (October)",
+      "facts": "Bakugo, Todoroki, Inasa Yoarashi, and Camie Utsushimi attend remedial license classes with Gang Orca, Present Mic, All Might, and Endeavor."
+    },
+    {
+      "arc_order": 16,
+      "title": "U.A. School Festival Arc (November)",
+      "facts": "Class 1-A prepares a live concert and dance for the UA School Festival to help Eri smile, while Gentle Criminal and La Brava attempt to infiltrate the campus."
+    },
+    {
+      "arc_order": 17,
+      "title": "Spin-off Series: Team-Up Missions & School Briefs",
+      "facts": "Side-story missions pairing UA students with Pro Heroes across Japan (Team-Up Missions) and slice-of-life dorm/school events (School Briefs)."
+    },
+    {
+      "arc_order": 18,
+      "title": "Pro Hero Arc (November)",
+      "facts": "Following the Hero Billboard Chart JP, newly crowned #1 Hero Endeavor and #2 Hero Hawks battle the intelligent High-End Nomu Hood in Kyushu."
+    },
+    {
+      "arc_order": 19,
+      "title": "Joint Training Arc (December)",
+      "facts": "Class 1-A and Class 1-B face off in 4v4 team battles across Ground Gamma with Hitoshi Shinso joining to earn his transfer into the Hero Course."
+    },
+    {
+      "arc_order": 20,
+      "title": "Meta Liberation Army Arc (December)",
+      "facts": "The League of Villains clashes with Re-Destro's 110,000-member Meta Liberation Army in Deika City, merging into the Paranormal Liberation Front under Shigaraki."
+    },
+    {
+      "arc_order": 21,
+      "title": "Movie 2: My Hero Academia: Heroes Rising (Mid-December)",
+      "facts": "Class 1-A acts as temporary Pro Heroes on remote Nabu Island when the villain Nine and his squad attack to steal a cell-regeneration Quirk."
+    },
+    {
+      "arc_order": 22,
+      "title": "Endeavor Agency Arc (January)",
+      "facts": "Winter Work-Studies under Endeavor (includes OVAs: Hero League Baseball and Laugh! As If You Are in Hell) while Hawks secretly gathers intel inside the Paranormal Liberation Front."
+    },
+    {
+      "arc_order": 23,
+      "title": "Movie 3: My Hero Academia: World Heroes' Mission (Late January)",
+      "facts": "Pro Heroes and Work-Study students deploy globally to stop Flect Turn and the anti-Quirk cult Humarise from detonating Ideological Trigger Bombs across 25 countries."
+    },
+    {
+      "arc_order": 24,
+      "title": "Paranormal Liberation War Arc (March)",
+      "facts": "Heroes launch simultaneous raids on Jaku Hospital and Gunga Mountain Villa, triggering Shigaraki's incomplete awakening and Gigantomachia's rampage across Japan."
+    },
+    {
+      "arc_order": 25,
+      "title": "Dark Hero Arc (April)",
+      "facts": "Following the Tartarus prison breakouts and collapse of hero society, Deku leaves UA to hunt All For One's assassins (like Lady Nagant) solo until Class 1-A tracks him down and brings him back."
+    },
+    {
+      "arc_order": 26,
+      "title": "Star and Stripe Arc (Spring)",
+      "facts": "America's #1 Hero, Cathleen Bate (Star and Stripe), engages Shigaraki over the Pacific Ocean using New Order, crippling several of his Quirks before falling."
+    },
+    {
+      "arc_order": 27,
+      "title": "U.A. Traitor Arc (Spring)",
+      "facts": "Yuga Aoyama is uncovered as All For One's reluctant informant; UA converts into the fortified Troy system and sets a trap for the final battle."
+    },
+    {
+      "arc_order": 28,
+      "title": "Movie 4: My Hero Academia: You're Next (Pre-Final War)",
+      "facts": "Before the final war, a massive flying fortress appears over ruined Japan led by Dark Might and the Gollini crime family."
+    },
+    {
+      "arc_order": 29,
+      "title": "Final War Arc (Spring)",
+      "facts": "Heroes split the Paranormal Liberation Front across multiple battlefields\u2014including the Coffin in the Sky, Gunga, Kamino, and Okuto Island\u2014in the final showdown against Shigaraki and All For One."
+    },
+    {
+      "arc_order": 30,
+      "title": "Epilogue & Spin-off: More / Time-Skip",
+      "facts": "Post-war reconstruction of hero society and the 8-year time-skip following Class 1-A's careers as adult Pro Heroes."
+    }
+  ]
+}
